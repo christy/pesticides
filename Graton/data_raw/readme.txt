@@ -12,7 +12,7 @@ It is a list of specific pesticide chemicals "most worrisome".
 DATE ACCESSED FEB 2020: CDPR public website above only has data through "2017"
 see https://www.cdpr.ca.gov/docs/pur/pur17rep/top_5_ais_sites_lbs_2017.htm
 
-RAW DATA DATES NOTES: 
+FOIA RAW DATA DATES NOTES: 
 min date = 2017-01-11 00:00:00
 max date = 2019-08-23 00:00:00
 2018    903
