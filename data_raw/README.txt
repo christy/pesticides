@@ -17,10 +17,10 @@ Question 1) Why are there so many fewer entries in 2019 than in 2018?  Why don't
 Question 2) Why did FOIA 2018-2019 bring up 2017 dates?
 Question 3) Is it possible that CDPR "2019" is a growing season 2019 possibly?
 
-I didn't get any answers so I assumed "reporting years" as follows:
+I didn't get any answers so I assumed "FOIA request reporting years" as follows:
    CDPR 2019 = calendar dates Sep2018 - Aug2019 
-   CDPR 2018: calendar dates Sep2017-Aug2018 
+   CDPR 2018 = calendar dates Sep2017 - Aug2018 
 
-Revised data counts using "reporting years" assumption, which seems to make more sense:
+Revised data counts using "FOIA reporting years" assumption below, seems to make more sense:
 2019    927
 2018    872
