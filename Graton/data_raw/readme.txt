@@ -1,7 +1,10 @@
-RAW DATA IS LOCATED ON GOOGLE DRIVE:
+2018-2019 RAW DATA IS LOCATED ON GOOGLE DRIVE:
 CONTAINS 2018-2019 FOIA DATA BY MEGAN FROM https://www.cdpr.ca.gov/docs/pur/purmain.htm. 
 Specificially within ~1 mile around the town of Graton just wine grape farmers. 
 https://drive.google.com/drive/folders/1XJXQsQG06-xGyNhSqMe9ejvnd2Guq9N3
+
+2017 RAW DATA is the file "7530917630382_200224101339.txt"
+Downloaded directly Feb 2020 from https://www.cdpr.ca.gov/docs/pur/purmain.htm
 
 EXCEL FILE in this folder was given to me by Megan.  
 It is a list of specific pesticide chemicals "most worrisome".
